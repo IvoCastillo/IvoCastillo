@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @IvoCastillo
+- 👀 I’m interested in game dev
+- 🌱 I’m currently learning c++
+- 💞️ I’m looking to collaborate on anything game related
+- 📫 How to reach me saavedraivo@hotmail.com
